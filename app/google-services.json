@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1054483337206",
+    "firebase_url": "https://savoir-b0ce0.firebaseio.com",
+    "project_id": "savoir-b0ce0",
+    "storage_bucket": "savoir-b0ce0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054483337206:android:c988def5695a206a",
+        "android_client_info": {
+          "package_name": "com.example.somya.savoir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054483337206-komnf0c44js6bas1o4ivse44r30s6hfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClYaTxIf_OhcBOasZof3ClO_vO5vj6w0E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
